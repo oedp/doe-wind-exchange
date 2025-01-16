@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+windexchange.energy.gov	TRUE	/	FALSE	1999999999	lcid	HTZsff8aF.1736913353
+windexchange.energy.gov	TRUE	/	FALSE	1999999999	_windexchange_session	CNEW7yZ31ra%2FtmUKI%2FdePSMEceowUANQlwirbrclOp9M4SyiI2y2gZaXiP8JLw1r%2BRjIXmdQIIhQnzh%2BBWOmf0ujSehCoIEW3%2BGCM2Tx8TLzIty1sW3n3ekfHEhAV9N76bg%2FLe2y7onvbXlsclC4YHCxIRMcVlVtGcIu40J8itLzUkIbG6quYRh7zNkCixrvq%2BppfbiW1NhJguRXQJkEHO3FNNgnYLk9g0SgtPkaLX2DKjLwN9PGJIqhLNX7FWqIHQztstJbEVsEPx084CGEZ4l9BVmqnG0y3prsukQ%3D--xXH1PStAkjrU80pF--htLSBzL40FKfqlUO79Id9g%3D%3D
+windexchange.energy.gov	TRUE	/	FALSE	1999999999	SameSite	Lax
+
